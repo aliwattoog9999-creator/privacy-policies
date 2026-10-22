@@ -1,17 +1,29 @@
-# The Legends Lab company - Official Privacy Policies
+# Legal & Privacy Documentation Portal
 
-Welcome to the official legal and privacy documentation repository for **The Legends Lab company**. Below you can find the general company policy as well as specific privacy disclosures for each of our applications.
-
-## 🏢 Company Level Policy
-* [The Legends Lab - Master Privacy Policy & Terms (PDF)](./The_Legends_Lab_Privacy_Policy_And_Terms.pdf)
-  *Includes general data handling, limitation of liability, server breach disclaimers, and copyright/DMCA protection terms.*
-
-## 📱 Application Specific Policies
-Click on any application below to read its dedicated privacy policy:
-
-* **[MAPlayer (100% Offline Video Player)](./MAPlayer_Privacy_Policy.md)**
-  *Covers local storage processing, zero tracking, and offline architecture disclosures.*
+Welcome to the official legal registry for **The Legends Lab company**. This repository hosts up-to-date compliance, terms of service, and privacy metrics across our digital assets and software portfolio.
 
 ---
-For any legal inquiries or support requirements, please contact us directly at:
+
+## 🏢 Corporate Policies
+Comprehensive governance framework protecting both company infrastructure and user confidentiality.
+
+* 📑 **[The Legends Lab - Master Privacy Policy & Legal Terms (PDF)](./The_Legends_Lab_Privacy_Policy_And_Terms.pdf)**
+  *Contains global data architecture rules, strict limitation of company liability, cyber breach disclaimers, and proprietary asset protection.*
+
+---
+
+## 📱 Application-Specific Policies
+Granular disclosure frameworks tailored to the technical operational architecture of each product.
+
+* 🎬 **[MAPlayer - Official Privacy Policy (PDF)](./MAPlayer_Official_Privacy_Policy.pdf)**
+  *Covers local sandboxed storage execution, 100% offline workflow architecture, zero tracking/telemetry verification, and localized permission protocols.*
+
+---
+
+## ⚖️ Intellectual Property & Copyright Notice
+All original designs, source codes, asset frameworks, and application interfaces (UI/UX) hosted under this organization are proprietary to **The Legends Lab company**. Unauthorized cloning, reverse-engineering, decompilation, or marketplace redistribution will immediately trigger DMCA enforcement and strict legal counter-actions.
+
+## 📬 Contact & Legal Inquiries
+For official regulatory communication, legal notices, or data-related compliance queries, please contact our legal desk directly:
+
 📧 **ali.legends.lab.company@gmail.com**
